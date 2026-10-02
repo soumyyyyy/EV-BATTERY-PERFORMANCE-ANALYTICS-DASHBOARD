@@ -138,20 +138,7 @@ This solution can be applied in:
 This project demonstrates how SQL, Python, and Power BI can be integrated to build a complete EV Battery Performance Analytics solution. By analyzing battery health, degradation patterns, and environmental impacts, the project provides actionable insights that support predictive maintenance, operational efficiency, and data-driven decision-making in the electric vehicle industry.
 
 
-## 👩‍💻 About Me
-
-**Trishasree Dewan**
-
-Aspiring Data Analyst skilled in SQL, Python, Power BI, Excel, and Data Visualization with a strong interest in transforming data into actionable business insights.
-
-GitHub: https://github.com/dewantrishasree17-dev
-
-LinkedIn: https://www.linkedin.com/in/trishasree-dewan-53681929a
-## 📜 License
-
-This project was developed for educational, learning, and portfolio purposes.
-
 The project is intended to demonstrate skills in SQL, Python, Power BI, data analysis, and dashboard development. The dataset and project outputs are shared solely for academic and professional showcase purposes.
 
-© 2026 Trishasree Dewan. All rights reserved.
+
 
